@@ -5,10 +5,6 @@ Read.me
 Jan Grzegorek
 Witold Synowiec
 </h6>
-
-<p>W razie pytań np. uruchomieniowych prosimy pisać pod jeden z adresów:
-jan.grzegorek.stud@pw.edu.pl
-witold.synowiec.stud@pw.edu.pl
  
 Prezentacja aplikacji:
 <https://www.youtube.com/watch?v=Lg_s1895Pgc>
